@@ -1,7 +1,0 @@
-{
-    "description": "My awesome repo to grow tomatoes 🍅",
-    "topics": ["tomato", "disruptive", "blockchain"],
-    "extraChecks": ["redness-check"],
-    "enableIssues": true,
-    "enableWiki": false
-}
